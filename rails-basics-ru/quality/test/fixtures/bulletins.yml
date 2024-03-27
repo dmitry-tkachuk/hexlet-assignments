@@ -1,0 +1,9 @@
+one:
+  title: "I'm the first one"
+  body: 'Whats up?'
+  published: false
+
+two:
+  title: "I'am the second one"
+  body: 'Hey ho'
+  published: false
