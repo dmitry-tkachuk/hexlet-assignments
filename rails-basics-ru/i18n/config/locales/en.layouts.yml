@@ -1,0 +1,10 @@
+en:
+  layouts:
+    application:
+      title: Hexlet
+      footer: © Hexlet, %{year}
+    shared:
+      nav:
+        homepage: Home
+        posts: Posts
+        hexlet_logo: Hexlet logo

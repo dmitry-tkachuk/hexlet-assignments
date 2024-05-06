@@ -1,0 +1,10 @@
+ru:
+  layouts:
+    application:
+      title: Хекслет
+      footer: © Хекслет, %{year}
+    shared:
+      nav:
+        homepage: Домой
+        posts: Посты
+        hexlet_logo: 'Хекслет лого'
